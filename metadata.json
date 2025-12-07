@@ -1,0 +1,7 @@
+{
+  "name": "ElectroRescue.ai",
+  "description": "A specialized AI agent that inspects Printed Circuit Boards (PCBs), identifies components, reads markings, and explains their functions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
